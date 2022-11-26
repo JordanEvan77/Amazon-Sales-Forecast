@@ -1,7 +1,6 @@
 # Amazon-Sales-Forecast #Data source; https://www.kaggle.com/datasets/knightbearr/sales-product-data?select=Sales_November_2019.csv
 Using 12 months of Nation wide sales data to create a forecast or classification system. 
-This is still a work in progress, but I have done some feature extraction on the time series data, and tried both forecasting regression (RF) and a few classification
-techniques as well.
+Completing both Classification Tasks and Regression tasks, using Grid Search, Cross Validation, Multi-Layer Perceptron Networks and Recurrent Neural Networks. 
 
-I am still trying to find what the most interesting thing to predict would be, perhaps the prediction of what will be a larger purchase,
-timing and location wise, so that good marketing materials can find their way to the right customers for discounts etc.
+Classifying day of week/year for best product sales, as well as daily/weekly/monthly rolling revenue. 
+Please read my full 3 page report with visuals at: 
